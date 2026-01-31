@@ -25,7 +25,18 @@ regularly to track progress and build a strong foundation for data-related roles
 ---
 
 ## 📂 Repository Structure
-
+sql-learning-journey/
+│
+├── README.md
+├── notes/
+│ └── sql-notes.md
+├── practice/
+│ ├── basic_queries.sql
+│ ├── filtering.sql
+│ ├── joins.sql
+│ └── subqueries.sql
+└── databases/
+└── sample_schema.sql
 ---
 
 ## 🚀 Goal
